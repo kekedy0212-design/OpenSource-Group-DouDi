@@ -127,7 +127,6 @@ git push origin main
 我们相信 ——  
 > **开源让学习更开放，让协作更有力量。**
 
-[your-project-path]:kekedy0212-design/OpenSource-Group-DouDi
 [contributors-shield]: https://img.shields.io/github/contributors/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
 [contributors-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
@@ -135,6 +134,6 @@ git push origin main
 [stars-shield]: https://img.shields.io/github/stars/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
 [stars-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[issues-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/issues
 [license-shield]: https://img.shields.io/github/license/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
-[license-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/blob/master/LICENSE.txt
+[license-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/blob/main/LICENSE.txt
