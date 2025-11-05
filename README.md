@@ -1,5 +1,11 @@
 # 🌟 OpenSource-Group-DouDi | 开源软件开发实践项目
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 > 西安电子科技大学 · 软件工程（智能软件方向）小组项目  
 > 在学习中参与真实的开源协作 · Fork · Star · Issue · 欢迎参与！
 
@@ -126,8 +132,21 @@ git push origin main
 ---
 
 ## 🙏 鸣谢
+[Best_README_template](https://github.com/shaojintian/Best_README_template)
 感谢 **西安电子科技大学《开源软件开发实践》课程教学团队** 的悉心指导，  
 以及所有为开源社区贡献力量的开发者。  
 
 我们相信 ——  
 > **开源让学习更开放，让协作更有力量。**
+
+[your-project-path]:kekedy0212-design/OpenSource-Group-DouDi
+[contributors-shield]: https://img.shields.io/github/contributors/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
+[contributors-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
+[forks-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/network/members
+[stars-shield]: https://img.shields.io/github/stars/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
+[stars-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[license-shield]: https://img.shields.io/github/license/kekedy0212-design/OpenSource-Group-DouDi.svg?style=flat-square
+[license-url]: https://github.com/kekedy0212-design/OpenSource-Group-DouDi/blob/master/LICENSE.txt
