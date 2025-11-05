@@ -41,7 +41,6 @@
 - **编程语言**：C / C++ / Java / Python  
 - **开发工具**：Git · GitHub · VS Code  
 - **协作与管理**：Markdown 文档、Git 分支协作、Issue 跟踪  
-- **未来计划**：尝试使用 React 或 Flask 框架进行小型实践项目
 
 ---
 
@@ -93,18 +92,7 @@ git clone https://github.com/kekedy0212-design/OpenSource-Group-DouDi.git
 cd OpenSource-Group-DouDi
 ```
 
-### 2️⃣ 查看分支与历史记录
-```
-git branch
-git log --oneline
-```
-
-### 3️⃣ 同步主分支
-```
-git pull origin main
-```
-
-### 4️⃣ 提交个人信息
+### 2️⃣ 提交个人信息
 ```
 git add profiles/学号.md
 git commit -m "Add profile for 姓名"
@@ -132,9 +120,9 @@ git push origin main
 ---
 
 ## 🙏 鸣谢
-[Best_README_template](https://github.com/shaojintian/Best_README_template)
-感谢 **西安电子科技大学《开源软件开发实践》课程教学团队** 的悉心指导，  
-以及所有为开源社区贡献力量的开发者。  
+- [Best_README_template](https://github.com/shaojintian/Best_README_template)
+
+感谢 **西安电子科技大学《开源软件开发实践》课程教学团队** 的悉心指导，以及所有为开源社区贡献力量的开发者。  
 
 我们相信 ——  
 > **开源让学习更开放，让协作更有力量。**
